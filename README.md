@@ -15,7 +15,8 @@ A sleek and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-(Add Vercel Link)
+https://qr-code-generator-bice-nine.vercel.app/ 
 
 ## Screenshots
-(Add screenshot here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5401e64-521c-4efb-822b-4b2147476e77" />
+
